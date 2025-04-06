@@ -49,7 +49,7 @@ A full-featured e-commerce REST API built using **Node.js**, **Express**, and **
 ### Installation
 
 ```bash
-git clone https://github.com/your-repo/backend-ecommerce-api.git
+git clone https://github.com/Damo89/Backend-Ecommerce-API.git
 cd backend-ecommerce-api
 npm install
 ```
