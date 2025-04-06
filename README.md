@@ -17,7 +17,7 @@ A full-featured e-commerce REST API built using **Node.js**, **Express**, and **
 
 ---
 
-# ✨ Features
+## ✨ Features
 
 - ✅ User registration & login (JWT & session-based)
 - ✅ Browse and manage products
