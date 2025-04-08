@@ -50,7 +50,7 @@ A full-featured e-commerce REST API built using **Node.js**, **Express**, and **
 
 ```bash
 git clone https://github.com/Damo89/Backend-Ecommerce-API.git
-cd backend-ecommerce-api
+cd Backend-Ecommerce-API
 npm install
 ```
 
