@@ -49,7 +49,7 @@ app.use('/api/users', usersRoutes);
 app.use('/api/orders', ordersRoutes);
 app.use('/api/carts', cartRoutes);
 app.use('/api/checkout', checkoutRoutes);
-app.use('/api', authRoutes);
+app.use('/api/auth', authRoutes);
 
 //Global error handler
 app.use((err, req, res, next) => {
